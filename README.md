@@ -1,6 +1,6 @@
 # Anonymyzer_AI_API
 
-This API built with Node.js, Express.js, and uses PostgreSQL. It is used for user signin/registration as well as keeping track of the number of entries for each user.
+This API was built with Node.js, Express.js, and uses PostgreSQL. It is used for user signin/registration as well as keeping track of the number of entries for each user.
 
 ![picture of the app](https://github.com/kpolgar/Anonymyzer_AI/blob/master/Anonymizer_AI.png)
 
